@@ -1,0 +1,26 @@
+body{
+  margin : 2%;
+}
+.main{
+  text-align: center;
+  width: 50vw;
+  height: 75vh;
+  background: #b3b3b3;
+  margin: 0;
+}
+button{
+  padding-left: 10%;
+  padding-right: 10%;
+  font-size: 40px;
+}
+.toe{
+  border: solid 1px #0000ff;
+  display: inline-block;
+  width: 32%;
+  height: 32%;
+  font-size: 50px;
+  text-align: center;
+}
+p.txt{
+  display: none;
+}
