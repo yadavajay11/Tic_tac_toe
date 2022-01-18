@@ -2,11 +2,11 @@ body{
   margin : 2%;
 }
 .main{
-  	text-align: center;
+  text-align: center;
 	width: 90vw;
 	height: 50vh;
 	background: #b3b3b3;
-  	margin: 0;
+  margin: 0;
 }
 button{
   padding-left: 10%;
