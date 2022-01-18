@@ -24,11 +24,11 @@ button{
 p.txt{
   display: none;
 }
-@media all and (min-width: 400px){
+@media all and (min-width: 500px){
 .main{
   text-align: center;
   width: 90vw;
-  height: 75vh;
+  height: 70vh;
   background: #b3b3b3;
   margin: 0;
 }
