@@ -24,7 +24,7 @@ button{
 p.txt{
   display: none;
 }
-@media all and (min-width: 500px){
+@media all and (min-width: 600px){
 .main{
   text-align: center;
   width: 90vw;
