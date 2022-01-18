@@ -24,7 +24,7 @@ button{
 p.txt{
   display: none;
 }
-@media all and (min-width: 600px){
+@media screen and (min-width: 600px){
 .main{
   text-align: center;
   width: 90vw;
@@ -33,7 +33,7 @@ p.txt{
   margin: 0;
 }
 }
-@media all and (min-width: 900px){
+@media screen and (min-width: 900px){
 .main{
   text-align: center;
   width: 50vw;
