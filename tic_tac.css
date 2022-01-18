@@ -2,11 +2,11 @@ body{
   margin : 2%;
 }
 .main{
-  text-align: center;
-  width: 50vw;
-  height: 75vh;
-  background: #b3b3b3;
-  margin: 0;
+  	text-align: center;
+	width: 90vw;
+	height: 50vh;
+	background: #b3b3b3;
+  	margin: 0;
 }
 button{
   padding-left: 10%;
@@ -23,4 +23,22 @@ button{
 }
 p.txt{
   display: none;
+}
+@media all and (min-width: 400px){
+.main{
+  text-align: center;
+  width: 90vw;
+  height: 75vh;
+  background: #b3b3b3;
+  margin: 0;
+}
+}
+@media all and (min-width: 900px){
+.main{
+  text-align: center;
+  width: 50vw;
+  height: 75vh;
+  background: #b3b3b3;
+  margin: 0;
+}
 }
